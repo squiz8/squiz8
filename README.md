@@ -1,3 +1,3 @@
-👋 Hi, I’m Sam
-👀 I’m a software/Data Engineer. 
+- 👋 Hi, I’m Sam
+- 👀 I’m a software/Data Engineer. 
 
